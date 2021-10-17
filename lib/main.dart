@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:derma_app/views/home_view.dart';
+import 'package:derma_app/views/malign_view.dart' ;
+import 'package:derma_app/views/benign_view.dart' ;
+
 
 void main() {
   runApp(const MyApp());
@@ -15,8 +18,20 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-      ),
-      home: HomeView()
+        
+        textTheme: Theme.of(context).textTheme.apply(fontFamily:'Inter')
+              ),
+     // home: MalignView(),
+
+      routes:{
+        '/' : (context) => HomeView(),
+     //   '/loading' : (context) => ,
+         '/malign' : (context) => MalignView(),
+         '/benign' : (context) => BenignView(),
+         
+
+  
+      } ,
     );
   }
 }

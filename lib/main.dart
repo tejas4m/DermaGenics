@@ -1,3 +1,4 @@
+import 'package:derma_app/views/loading_view.dart';
 import 'package:flutter/material.dart';
 import 'package:derma_app/views/home_view.dart';
 import 'package:derma_app/views/malign_view.dart' ;

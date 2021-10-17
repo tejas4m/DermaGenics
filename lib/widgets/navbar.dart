@@ -18,7 +18,8 @@ class NavBar extends StatelessWidget {
             children: <Widget>[
               _NavBarItem('About'),
               SizedBox(width: 60,),
-              _NavBarItem('Contact Us')
+              _NavBarItem('Contact Us'), 
+              
             ],
           )
         ],

@@ -1,3 +1,4 @@
+import 'package:derma_app/views/loading_view.dart';
 import 'package:flutter/material.dart';
 import 'package:derma_app/views/home_view.dart';
 
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomeView()
+      //home: HomeView(),
+      home: LoadingView(),
     );
   }
 }

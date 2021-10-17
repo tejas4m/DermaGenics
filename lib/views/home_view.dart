@@ -1,3 +1,5 @@
+//import 'package:derma_app/widgets/CenteredView/centered_view.dart';
+import 'package:derma_app/widgets/details/details.dart';
 import 'package:flutter/material.dart';
 import 'package:derma_app/widgets/navbar.dart';
 
@@ -9,8 +11,10 @@ class HomeView extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       body: Column(children: <Widget>[
-        NavBar()
-      ])
-    );
-  }
+        NavBar(),
+       details ()
+      ],
+      ),
+      );
+      }
 }

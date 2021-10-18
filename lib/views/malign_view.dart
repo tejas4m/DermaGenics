@@ -67,7 +67,7 @@ class MalignView extends StatelessWidget {
 
                        child: SizedBox(
                          width: 380, height: 220,
-                         child: Card(color: Colors.red.shade100,
+                         child: Card(color: Colors.pinkAccent,
                          child: Text("erf"),
                            
                          ),

@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:derma_app/views/home_view.dart';
 import 'package:derma_app/views/malign_view.dart' ;
 import 'package:derma_app/views/benign_view.dart' ;
+import 'package:derma_app/views/loading_view.dart' ;
+
 
 
 void main() {
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
 
       routes:{
         '/' : (context) => HomeView(),
-     //   '/loading' : (context) => ,
+       '/loading' : (context) => LoadingView(),
          '/malign' : (context) => MalignView(),
          '/benign' : (context) => BenignView(),
          

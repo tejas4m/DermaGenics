@@ -1,9 +1,10 @@
-import 'dart:html';
 import 'dart:typed_data';
 
 import "package:flutter/material.dart";
 //import 'package:image_picker/image_picker.dart';
 import 'package:file_picker/file_picker.dart';
+import 'package:google_fonts/google_fonts.dart';
+
 
 class details extends StatefulWidget {
   const details({Key? key}) : super(key: key);
@@ -41,18 +42,19 @@ Uint8List? image;
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             //mainAxisAlignment: MainAxisAlignment.center ,
+            
             children: <Widget>[
               Text(
                 'MELANOMA\nDETECTION\nSYSTEM',
-                style: TextStyle(
-                    fontWeight: FontWeight.w800, fontSize: 60, height: 0.9),
+                style: GoogleFonts.inter(fontSize: 69,fontWeight: FontWeight.w800, color: Colors.black)
+            
               ),
               SizedBox(
-                height: 30,
+                height: 20,
               ),
               Text(
                 'Add a picture of the spot where you think you might be affected',
-                style: TextStyle(fontSize: 21, height: 1.7),
+               style: GoogleFonts.inter(fontSize: 22,fontWeight: FontWeight.w400, color: Colors.grey.shade800)
               ),
             ],
           ),

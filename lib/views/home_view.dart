@@ -9,13 +9,15 @@ class HomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.white,
-      body: Column(children: <Widget>[
-        NavBar(),
-       details ()
-      ],
-      ),
-      );
+    return CenteredView(
+      child: Scaffold(
+        backgroundColor: Colors.white,
+        body: Column(children: <Widget>[
+          NavBar(),
+         details ()
+        ],
+        ),
+        ),
+    );
       }
 }

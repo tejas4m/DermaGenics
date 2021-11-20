@@ -3,7 +3,7 @@
 ## Project Contributers
 1. Juhi Chhatlani
 2. Tejas Mahajan
-3. Rishabh Rijhwani
+3. Rushabh Rijhwani
 4. Advait Bansode
 
 ## Abstract

@@ -43,3 +43,5 @@ Dr. Prof. Gresha Bhatia
 
 ![Benign](https://github.com/tejas4m/DermaGenics/blob/master/assets/Benign.jpeg | width=100px)
 
+<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Malign.jpeg' width='25'>
+<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Benign.jpeg' width='25'>

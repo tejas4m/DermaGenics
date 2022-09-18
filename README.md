@@ -39,8 +39,6 @@ Dr. Prof. Gresha Bhatia
 
 <img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Modular.jpg' width='98%'>
 
-![Modular Diagram](https://github.com/tejas4m/DermaGenics/blob/master/assets/Modular.jpg)
-
 
 <p float="left">
 <img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Malign.jpeg' width='49%'>

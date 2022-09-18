@@ -39,9 +39,11 @@ Dr. Prof. Gresha Bhatia
 
 ![Modular Diagram](https://github.com/tejas4m/DermaGenics/blob/master/assets/Modular.jpg)
 
-![Malign](https://github.com/tejas4m/DermaGenics/blob/master/assets/Malign.jpeg | width=100px)
 
-![Benign](https://github.com/tejas4m/DermaGenics/blob/master/assets/Benign.jpeg | width=100px)
-
-<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Malign.jpeg' width='25'>
-<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Benign.jpeg' width='25'>
+<p float="left">
+<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Malign.jpeg' width='250'>
+<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/Benign.jpeg' width='250'>
+  
+</p> 
+  
+  

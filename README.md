@@ -1,4 +1,5 @@
 
+<img src='https://github.com/tejas4m/DermaGenics/blob/master/assets/logo.png' width='30%%'>
 # DermaGenics
 
 DermaGenics : Early Detection of Melanoma using S.O.T.A. Deep Learning techniques

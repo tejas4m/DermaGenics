@@ -37,5 +37,5 @@ Dr. Prof. Gresha Bhatia
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Modular Diagram](https://github.com/tejas4m/DermaGenics/blob/master/assets/Modular.jpg)
 

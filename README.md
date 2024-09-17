@@ -32,7 +32,7 @@ Dr. Prof. Gresha Bhatia
 - [@Tejas Mahajan](https://github.com/tejas4m)
 - [@Juhi Chhatlani](https://github.com/Juhi-C)
 - [@Advait Bansode](https://github.com/Advait1306)
-- [@Juhi Chhatlani](https://github.com/Juhi-C)
+- @Rushabh Rijhwani
 
 
 
